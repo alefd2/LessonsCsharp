@@ -1,0 +1,6 @@
+C:\Users\Alef ADM\source\repos\ByteBank\02 - byteBanck\bin\Debug\02 - byteBanck.exe.config
+C:\Users\Alef ADM\source\repos\ByteBank\02 - byteBanck\bin\Debug\02 - byteBanck.exe
+C:\Users\Alef ADM\source\repos\ByteBank\02 - byteBanck\bin\Debug\02 - byteBanck.pdb
+C:\Users\Alef ADM\source\repos\ByteBank\02 - byteBanck\obj\Debug\02 - byteBanck.csproj.CoreCompileInputs.cache
+C:\Users\Alef ADM\source\repos\ByteBank\02 - byteBanck\obj\Debug\02 - byteBanck.exe
+C:\Users\Alef ADM\source\repos\ByteBank\02 - byteBanck\obj\Debug\02 - byteBanck.pdb

@@ -1,0 +1,7 @@
+C:\Users\Alef ADM\source\repos\aprendendoCSharp\2-criandoVariaveis\bin\Debug\2-criandoVariaveis.exe.config
+C:\Users\Alef ADM\source\repos\aprendendoCSharp\2-criandoVariaveis\bin\Debug\2-criandoVariaveis.exe
+C:\Users\Alef ADM\source\repos\aprendendoCSharp\2-criandoVariaveis\bin\Debug\2-criandoVariaveis.pdb
+C:\Users\Alef ADM\source\repos\aprendendoCSharp\2-criandoVariaveis\obj\Debug\2-criandoVariaveis.csprojAssemblyReference.cache
+C:\Users\Alef ADM\source\repos\aprendendoCSharp\2-criandoVariaveis\obj\Debug\2-criandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Alef ADM\source\repos\aprendendoCSharp\2-criandoVariaveis\obj\Debug\2-criandoVariaveis.exe
+C:\Users\Alef ADM\source\repos\aprendendoCSharp\2-criandoVariaveis\obj\Debug\2-criandoVariaveis.pdb
